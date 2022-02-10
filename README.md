@@ -1,6 +1,9 @@
-<!--
-**EMMANUELRIVERA12/EMMANUELRIVERA12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![](https://logos-marcas.com/github-logo.png)
+![1](https://user-images.githubusercontent.com/90486130/153504590-b140a2d6-22c7-468d-9e52-3478823cf3c0.png)
+
+![2](https://user-images.githubusercontent.com/90486130/153504672-5e14ce8e-2f53-4037-a41d-7702448dc386.jpg)
+
+
+
 buen dia internauta!😎🤟🏽
 ING. Tecnologias de la informacion y comunicacion (en curso)👨‍🏫 ✨ EMMANUEL RIVERA ✨.
 
@@ -13,7 +16,7 @@ ING. Tecnologias de la informacion y comunicacion (en curso)👨‍🏫 ✨ EMMA
 
 Ejemplo Tablas en MD
 
-| divercion | ✅ | ❌ |
+| divercion | ✅ |  0 |
 |---------- |:--: |:---: |
 | musica | ✅ | 0 |
 | verano | 0 | ❌ |
